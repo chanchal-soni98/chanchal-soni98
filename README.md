@@ -5,10 +5,15 @@
 <img align="right" width="400px" alt="Coder" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal-soni98&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal-soni98" /> </p>
+👨🏻‍💻  About Me</br>
+💡  I like to explore new technologies and develop software solutions.</br>
+🎓  I completed my learning from Masai School on full-stack web-development.</br>
+🌱  Still I'm on track for learning more about web-development, UI-design, and Back-end.</br>
 
-- 👨‍💻 All of my projects are available at [https://chanchal-soni98.github.io/](https://chanchal-soni98.github.io/)
+📄  Please have a look at my Résumé for more details about me.
 
-- 📫 How to reach me **chanchalsoni1998@gmail.com**
+👨‍💻 All of my projects are available at https://chanchal-soni98.github.io/</br>
+📫 How to reach me **chanchalsoni1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
