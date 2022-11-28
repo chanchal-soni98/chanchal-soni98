@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal-soni98&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal-soni98" /> </p>
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working on **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://chanchal-soni98.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio.](https://chanchal-soni98.github.io/)
 
 - 📫 How to reach me **chanchalsoni1998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1p8XEs2N9zQEcXPGEQlkRQVSMteSUO8aZ)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/drive/folders/1p8XEs2N9zQEcXPGEQlkRQVSMteSUO8aZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
