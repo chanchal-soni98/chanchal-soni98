@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://chanchal-soni98.github.io/](https://chanchal-soni98.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://chanchal-soni98.github.io/)
 
 - 📫 How to reach me **chanchalsoni1998@gmail.com**
 
