@@ -5,20 +5,20 @@
 <img align="right" width="400px" alt="Coder" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal-soni98&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal-soni98" /> </p>
-👨🏻‍💻  About Me</br>
-💡  I like to explore new technologies and develop software solutions.</br>
-🎓  I completed my learning from Masai School on full-stack web-development.</br>
-🌱  Still I'm on track for learning more about web-development, UI-design, and Back-end.</br>
 
-📄  Please have a look at my Résumé for more details about me.
 
-👨‍💻 All of my projects are available at https://chanchal-soni98.github.io/</br>
-📫 How to reach me **chanchalsoni1998@gmail.com**
+- 🌱 I’m currently learning **Spring Boot**
+
+- 👨‍💻 All of my projects are available at [https://chanchal-soni98.github.io/](https://chanchal-soni98.github.io/)
+
+- 📫 How to reach me **chanchalsoni1998@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1p8XEs2N9zQEcXPGEQlkRQVSMteSUO8aZ](https://drive.google.com/drive/folders/1p8XEs2N9zQEcXPGEQlkRQVSMteSUO8aZ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chanchal-soni-a1710018b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanchal-soni-a1710018b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chanchalsoni1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chanchalsoni1998" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/chanchalsoni1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chanchalsoni1998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
