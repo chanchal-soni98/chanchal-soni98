@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chanchalsoni1998@gmail.com**
 
-- 📄 Know about my experiences [Resume.](https://drive.google.com/drive/folders/1p8XEs2N9zQEcXPGEQlkRQVSMteSUO8aZ)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/uc?id=15TrxNUIXH-NJU65Nx4MzPAXTw_gJrWPS&authuser=0&export=download)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
