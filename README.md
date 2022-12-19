@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chanchal Soni</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
+<p align="center">A passionate JAVA Back-End Developer, Adaptable and responsible web developer, capable of writing production-ready code using HTML, CSS, JavaScript, and Java.</p>
 <img align="right" width="400px" alt="Coder" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal-soni98&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal-soni98" /> </p>
