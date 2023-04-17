@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chanchalsoni1998@gmail.com**
 
-- 📄 Know about my experiences [Resume.][fw20_1352-Chanchal-Soni-Resume.pdf](https://github.com/chanchal-soni98/chanchal-soni98/files/11247484/fw20_1352-Chanchal-Soni-Resume.pdf)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1Jh9lnU40VFL5p8DDgUXzmXBa5CCuuSkU/view?usp=share_link)
 
 
 <h3 align="left">Connect with me:</h3>
