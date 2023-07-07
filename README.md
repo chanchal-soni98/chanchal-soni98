@@ -1,8 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](http://chanchal-soni98.io)
 
 <h1 align="center">Hi 👋, I'm Chanchal Soni</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
-<p align="center">A passionate JAVA Back-End Developer, Adaptable and responsible web developer, capable of writing production-ready code using HTML, CSS, JavaScript, and Java.</p>
+<h3 align="center">Aspiring Web Developer</h3>
+<p align="center">A passionate JAVA Back-End Developer, Adaptable and responsible web developer, capable of writing production-ready code using HTML, CSS, JavaScript, Core Java, Spring Boot, Hibernate and Jpa.</p>
 <img align="right" width="400px" alt="Coder" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal-soni98&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal-soni98" /> </p>
