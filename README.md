@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently working in **PhysicsWallah**
 
-- 👨‍💻 All of my projects are available at [Portfolio.](https://chanchal-soni98.github.io/)
-
 - 📫 How to reach me **chanchalsoni1998@gmail.com**
 
 - 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1Jh9lnU40VFL5p8DDgUXzmXBa5CCuuSkU/view?usp=share_link)
