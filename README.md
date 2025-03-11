@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **chanchalsoni1998@gmail.com**
 
-- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1Jh9lnU40VFL5p8DDgUXzmXBa5CCuuSkU/view?usp=share_link)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1hNyXl5GjxUb9XfdHxDvr5OSessC1X-Cg/view?usp=share_link)
 
 - Go through my [Portfolio.](https://chanchal-soni98.github.io/)
 
