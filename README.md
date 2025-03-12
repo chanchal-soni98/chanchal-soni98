@@ -7,14 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchal-soni98&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal-soni98" /> </p>
 
-
-- 🌱 I’m currently working in **PhysicsWallah**
-
 - 📫 How to reach me **chanchalsoni1998@gmail.com**
 
-- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1hNyXl5GjxUb9XfdHxDvr5OSessC1X-Cg/view?usp=share_link)
+- 📄 Know about my experiences [Resume.](https://drive.google.com/file/d/1S3LvPcgSZC4Y9c7EEyfHDlmnt3PKRLvM/view?usp=share_link)
 
-- Go through my [Portfolio.](https://chanchal-soni98.github.io/)
+-  🌱 Go through my [Portfolio.](https://chanchal-soni98.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
